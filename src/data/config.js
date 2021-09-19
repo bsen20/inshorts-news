@@ -1,2 +1,2 @@
-const url = "backedn url
+const url = "backedn url"
 export default url;
